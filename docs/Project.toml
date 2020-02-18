@@ -1,4 +1,4 @@
 [deps]
-Carnival = "59cbade5-0922-4ddf-b720-5308b8e5b0d6"
+Carnival = "f50a3e48-c5f5-43b0-82ee-d7cda28b013e"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"

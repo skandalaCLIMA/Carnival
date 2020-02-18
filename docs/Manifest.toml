@@ -6,7 +6,7 @@ uuid = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
 [[Carnival]]
 deps = ["Test"]
 path = ".."
-uuid = "59cbade5-0922-4ddf-b720-5308b8e5b0d6"
+uuid = "f50a3e48-c5f5-43b0-82ee-d7cda28b013e"
 version = "0.1.0"
 
 [[Dates]]
@@ -62,7 +62,7 @@ uuid = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0"
 version = "0.3.11"
 
 [[Pkg]]
-deps = ["Dates", "LibGit2", "Libdl", "Logging", "Markdown", "Printf", "REPL", "Random", "SHA", "Test", "UUIDs"]
+deps = ["Dates", "LibGit2", "Libdl", "Logging", "Markdown", "Printf", "REPL", "Random", "SHA", "UUIDs"]
 uuid = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [[Printf]]

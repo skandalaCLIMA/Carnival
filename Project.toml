@@ -2,3 +2,6 @@ name = "Carnival"
 uuid = "f50a3e48-c5f5-43b0-82ee-d7cda28b013e"
 authors = ["skandalaCLIMA <skandala@caltech.edu>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
